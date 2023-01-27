@@ -1,0 +1,14 @@
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.exe
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.deps.json
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.json
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.dev.json
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.dll
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.pdb
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.AssemblyReference.cache
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfoInputs.cache
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfo.cs
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.dll
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.pdb
+C:\Users\nazilamf\Desktop\27.01 Lab\Task 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.genruntimeconfig.cache
